@@ -16,4 +16,4 @@ exports.omdb = {
   omdb_key: process.env.OMDB_KEY,
   omdb_api: process.env.OMDb_API,
   poster_api: process.env.POSTER_API,
-}
+};
